@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ReactRandomCircleColorApp/precache-manifest.a91276110a1295ed22b972a147e10718.js"
+  "/ReactRandomCircleColorApp/precache-manifest.5d1f9fc53543ed8d4acb3a45fda62ebc.js"
 );
 
 workbox.clientsClaim();
